@@ -1,0 +1,7 @@
+Demo prompts:
+
+Show me the top 5 products by revenue.
+How many orders did we get last month?
+List total revenue by month for 2024.
+What are the top 3 customers by total spent?
+Which category has the highest average order value?
